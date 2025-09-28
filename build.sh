@@ -2,4 +2,4 @@ rm build -rf
 mkdir -p build && cd build
 cmake ..
 make -j8
-./embed_protobuf
+#./embed_protobuf
