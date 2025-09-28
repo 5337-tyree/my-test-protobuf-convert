@@ -6,7 +6,7 @@
 
     proto/                 -- source code from telemetry-parser
 
-    src/embed_protobuf.cpp -- key code binary file emebed into source video file
+    src/main.cpp -- key code binary file emebed into source video file
 
     build.sh               -- compile script
 
